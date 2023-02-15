@@ -10,5 +10,10 @@ print(sumar)
 
 """
 
+"""
+Esto es una resta
 resta = number_one - number_two
 print(resta)
+
+"""
+
