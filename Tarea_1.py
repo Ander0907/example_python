@@ -18,13 +18,13 @@ print(variable2)
 """
 Contacto_de_amigo = 3002457742
 Estado_de_conexion = "En linea"
-Mensaje = "Oe, todo bien"
+Mensaje = "Hola, ¿todo bien?"
 print(Contacto_de_amigo)
 print(Estado_de_conexion)
 print(Mensaje)
 #Variables: contacto de amigo, estado de conexion y mensaje.
-"""
 
+"""
 """
 Total_a_pagar = 90000
 Medio_de_pago = "Tarjeta de credito"
