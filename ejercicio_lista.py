@@ -1,4 +1,4 @@
-"""
+
 #example of list 
 nombres = ["jesus","Maria","Jose"]
 print (nombres [1])
@@ -15,7 +15,7 @@ datos_persona = {
     "estatura" : 1.75,
     "¿soltero?" : "True"
 }
-"""
+
 #En forma de tupla
 
 datos_persona = ("Jesus",33,1.75,True)
